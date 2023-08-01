@@ -1,0 +1,7 @@
+{
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+  },
+  "editor.tabSize": 4
+  
+}
